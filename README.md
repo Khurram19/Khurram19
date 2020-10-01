@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi! This is Khurram Meraj. 
+### Currently a software engineering student at NED University
 
 <!--
 **Khurram19/Khurram19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
