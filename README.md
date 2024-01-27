@@ -1,6 +1,7 @@
 # Hi! This is Khurram Meraj. 
-### Currently a software engineering student at NED University
+### Software Engineer with over 2+ years of experience
 
+- 🔭 I’m currently working on ADF, AWS,, GCP, Python etc
 <!--
 **Khurram19/Khurram19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
